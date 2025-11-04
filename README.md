@@ -1,27 +1,78 @@
-## Olá! Sou a Lívia 👋
+</p><h1 align="center">👋 Hey, I'm Lívia Carvalho</h1>
 
-Sou formada em Gestão, com MBA em Gestão de Projetos e uma sólida experiência em setores diversos, como teste de software, SAP, Oracle, compras, vendas, gestão de projetos e contratos, planejamento estratégico, análise de processos e comunicação empresarial.
+<p align="center">
+  🎯 <b>QA Analyst | Quality Assurance | Software Testing | Manual & Automated Tests</b>
+</p>
 
-Minha trajetória profissional sempre foi marcada pela dedicação à excelência e à eficiência nos processos. Tenho um olhar apurado para detalhes e sigo padrões rigorosos, características que me ajudam a garantir a qualidade em cada projeto. Minha capacidade de comunicação contribui para que as equipas em que atuo mantenham uma troca de informações clara e eficiente, promovendo a colaboração e o sucesso coletivo.
+<p align="center">
+  <a href="https://www.linkedin.com/in/líviafariacarvalho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-Atualmente, estou em uma entusiasmante transição de carreira para a área de Qualidade de Software🐞, um campo pelo qual sou apaixonada. Estou empenhada em aplicar minha experiência em gestão, análise de processos e testes em um contexto mais técnico, onde posso contribuir para a entrega de produtos de software de alta qualidade e valor para os clientes.
+---
 
-Busco oportunidades para me conectar com outros profissionais da área, aprender continuamente e participar de projetos que reforcem meu compromisso com a qualidade.
+## About Me  
 
-## 🚀 Tecnologias que uso:
-Python &nbsp;&nbsp;&nbsp; PyCharm &nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; Postman
+I hold a **Bachelor’s degree in Management** and an **MBA in Project Management**, with solid experience in **process analysis and control, strategic planning, and corporate communication**.  
+After several years in strategic roles, I decided to transition my career to the field of **Software Quality Assurance**, combining my analytical mindset and process-driven approach with technology.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+I recently completed the **QA Bootcamp at TripleTen**, where I worked on **hands-on projects** focused on manual and automated testing, covering the complete QA cycle — from test case design and execution to bug documentation and automation of regression tests.
 
+---
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/livia-fcarvalho/
+## Software Quality Projects  
 
-- E-mail: liviajpa3@hotmail.com
+### 🔹 [Urban Routes](#)
+- **Manual and automated testing** of a web routing application  
+- Performed **functional, exploratory, and regression testing**  
+- Test automation using **Python + Selenium + Pytest**  
+- Bug tracking and reporting with **Jira**
 
-- Discord: liviajpa
+### 🔹 [Urban Lunch](#)
+- Mobile testing in **Android Studio (Pixel 5 Emulator)**  
+- Designed **checklists, test cases, and bug reports**  
+- Requirement validation and flow testing based on **Figma prototypes**
+
+### 🔹 [Urban Scooter](#)
+- **Integration testing** across Web, Mobile, and API layers  
+- API validation using **Postman**  
+- Automated regression tests with **Pytest**
+
+---
+
+## Tools & Technologies  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40" />
+</p>
+
+---
+
+## Currently Learning  
+- Test automation using **Python + Selenium + Pytest**  
+- **API testing** with Postman and Pytest  
+- **SQL** for data validation  
+- **Mobile testing** on Android Studio  
+
+---
+
+## Contact  
+
+📍 Lisbon, Portugal  
+🔗 [LinkedIn – Lívia Faria Carvalho](https://www.linkedin.com/in/líviafariacarvalho)  
+✉️ liviajpa3@hotmail.com  
+
+---
+
+*This repository serves as my technical portfolio — featuring practical projects, study materials, and automation work focused on Software Quality Assurance.*
